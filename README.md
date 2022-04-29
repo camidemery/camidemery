@@ -1,8 +1,7 @@
-### Hi there I'm Cami 👋
+### Hi there 👋
 
-<a href="https://www.linkedin.com/in/cami-demery/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/camidemery)](https://badges.pufler.dev)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cami-demery/)
 
 <!--
 **camidemery/camidemery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
